@@ -112,6 +112,26 @@ a:hover{
    letter-spacing: 0.1em;
  }
 
+ .formulario{
+   background-image: linear-gradient(90deg, black, white, red, white, black);
+   color: white;
+   width: 500px;
+   margin: auto;
+   border: 1px solid red;
+ }
+
+ .formulario h4{
+   color: white;
+ }
+
+ .gostos{
+   border: 1px solid red;
+ }
+
+ .sexo{
+   border: 1px solid red;
+ }
+
  h1, h2, h3, h4{
    color: #333;
  }
