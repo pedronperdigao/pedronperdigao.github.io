@@ -75,6 +75,7 @@ a:hover{
 
 .column{
   min-width: 300px;
+  max-width: 650px;
   display: inline-block;
   vertical-align: top;
 }
